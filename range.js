@@ -16,3 +16,5 @@ console.log(range(10, 30, 5));
 console.log(range(-5, 2, 3));
 var x;  //variable x is undefined
 console.log(range(x,5,1));
+x = 3;
+console.log(range(x, 5, 1));
